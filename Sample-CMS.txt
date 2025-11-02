@@ -1,0 +1,10 @@
+Database Name: ../Sample-CMS.txt
+Authors: Your Team Name
+
+Table Name: StudentRecords
+ID	Name		Programme		Mark
+2301234	Joshua Chen	Software Engineering	70.5
+2201234	Isaac Teo	Computer Science	63.4
+2304567	John Levoy	Digital Supply Chain	85.9
+2501536	Dominic	Infocomm Security	88.0
+250001	Test	Test	55.0
